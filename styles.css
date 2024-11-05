@@ -1,1 +1,23 @@
-/*  your css code here. If applicable */
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin: 0px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    
+}
+
+ul#band{
+    
+    list-style: square;
+    /* padding: 0px; */
+    width: 50%;
+    margin: 0 auto; 
+}
+
+li{
+    padding: 10px;
+    /* font-size: 18px; */
+    color: black;
+    border-bottom: 1px solid #ccc;
+}
